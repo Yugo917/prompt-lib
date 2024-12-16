@@ -10,7 +10,7 @@ ________________________________________________________________________________
 ```
 ## ChatGpt clarification
 ```
-    If you need any clarification or further guidance, please ask.
+    If you need more information to answer my question accurately, please feel free to ask me clarifying questions before responding. This will help ensure your response fully meets my expectations.
 ```
 ## Analyse files and keep in the memory 
 ```
@@ -30,6 +30,10 @@ ________________________________________________________________________________
 ```
     - Scan the entire project structure provided as an attachment and analyze the content of each file.
     - Can you generate a prompt that would create exactly the project provided in the attachment, knowing that you cannot use the content of the files in your prompt?
+```
+## Export response as a zip file
+```
+    Can you generate a ZIP file containing all the files and their proposed content necessary to create a runnable project? Please ensure that the project is complete, with all required dependencies, configurations, and scripts for successful execution. Specify the structure of the project (e.g., folders and files) and the content of each file clearly.
 ```
 ## Export response as a bash
 ```
