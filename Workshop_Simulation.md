@@ -8,9 +8,6 @@
     2. Each agent critiques, improves, or completes the previous response.
     3. The discussion ends after [N] iterations or when an optimal solution is found.
 
-    **Problem Statement:**
-    [Describe the problem here.]
-
     **Agent Roles:**
     1. **Agent 1: Analytical Expert** – Provides an initial logical and factual analysis.
     2. **Agent 2: Constructive Critic** – Identifies weaknesses or aspects to improve in the response.
@@ -22,6 +19,8 @@
     **Process:**
     Start with Agent 1. The other agents will respond according to their roles. After [N] iterations, Agent 4 will provide the final conclusion.
 
+    **Problem Statement:**
+    [Describe the problem here.]
 ```
 
 # Workshop Simulation _ The Six Thinking Hats of Bono
@@ -50,12 +49,8 @@
     ---
 
     ## Problem Statement
-    Development of a robust and scalable backend application for a team project involving a Lead Tech, a Site Reliability Engineer (SRE), and a Lead .NET Developer.
-
-
-    ---
-
-    ## Problématique
-    Élaboration d’une application backend robuste et scalable pour un projet d’équipe regroupant un Lead Tech, un SRE (Site Reliability Engineer) et un Lead Dev .NET.
-
+   [Describe the problem here.]
 ```
+
+## Sample of problem
+Development of a robust and scalable backend application for a team project involving a Lead Tech, a Site Reliability Engineer (SRE), and a Lead .NET Developer.
